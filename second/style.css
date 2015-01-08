@@ -1,0 +1,38 @@
+html, body{
+	width: 100%;
+	height: 100%;
+}
+
+.one {
+	background: blue;
+	height: 100%;
+	width: 30%;
+	float: left;
+}
+
+.two {
+	background: teal;
+	height: 100%;
+	width: 30%;
+	float: left;
+}
+
+.three {
+	background: green;
+	height: 100%;
+	width: 30%;
+	float: left;
+}
+
+.four {
+	height: 30%;
+	width: 100%;
+	background: red;
+	background: url(https://lh6.googleusercontent.com/-fu-lv-gTLY4/AAAAAAAAAAI/AAAAAAAAD8M/W3zKDOtfuL0/photo.jpg);
+	
+}
+
+.blank{
+	height: 70%;
+	width: 100%;
+}
