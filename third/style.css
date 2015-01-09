@@ -1,0 +1,42 @@
+html, body {
+	width: 95%;
+	height: 100%;
+}
+
+div {
+	height: 15%;
+	width: 100%;
+}
+.one {
+	background: #9c9c9c;
+}
+
+.two {
+	height: 25%;
+	margin: 0 auto;
+	padding: 10px;
+}
+
+.three {
+	background: blue;
+}
+
+.four {
+	background: teal;
+}
+
+.five {
+	background: green;
+}
+
+.six {
+	background: yellow;
+}
+
+.small {
+	height: 50px;
+	width: 50px;
+	background: blue;
+	margin: 20px;
+	position: relative; top: 20px;
+}
